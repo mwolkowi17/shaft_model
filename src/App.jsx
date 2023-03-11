@@ -17,6 +17,7 @@ function App() {
     <Shaft/>
     <OrbitControls/>
   </Canvas>,
+  <p className='info'>To start/pause motion click on model</p>
     </div>
   );
 }
