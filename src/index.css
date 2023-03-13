@@ -26,3 +26,12 @@ canvas {
   left:40px;
   color: white;
 }
+
+#przycisk{
+  position: absolute;
+  top:40px;
+  right:40px;
+  color: white;
+  width: 140px;
+  height: 60px;
+}
